@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Vinod More
 <a href="https://www.linkedin.com/in/vinodm41/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity professional with 8+ years of experience as a SOC Analyst, Threat Hunter, Security Engineer, Cloud
-Engineer and Cloud Security. Hands-on experience in alert/incident triage, investigation, mitigation and remediation.
+Cybersecurity professional with 8+ years of experience as a SOC Analyst, Security Engineer, Cloud Engineer, Threat Hunter, Cloud Security, SIEM, EDR, AWS, Azure. 
+Hands-on experience in alert/incident triage, investigation, mitigation and remediation.
 Security tools, technologies, and platforms design, evaluation, implementation, and administration.
 
 
